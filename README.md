@@ -7,5 +7,7 @@ git clone "repo link"
 put in project
 
 git add .
+
 git commit -m "comments"
+
 git push
